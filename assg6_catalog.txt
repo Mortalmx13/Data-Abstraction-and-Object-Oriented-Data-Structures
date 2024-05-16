@@ -1,0 +1,30 @@
+J. Prichard and F. Carrano
+Data Abstraction & Problem Solving with Java
+Addison Wesley
+0132122306
+2011
+Bill Clinton
+My Life
+Vintage
+1400030032
+2005
+Arthur Miller
+A View From the Bridge
+Dramatists Play
+0822212099
+1998
+Abraham Silberschatz
+Database System Concepts
+McGraw Hill
+1260084507
+2019
+Pang-Ning Tan, Michael Steinbach,Vipin Kumar
+Introduction to Data Mining
+Addison Wesley
+0321321367
+2005
+
+
+
+
+
